@@ -1,0 +1,37 @@
+<!DOCTYPE>
+<html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>About Cal Hargis</h1>
+<hr>
+<p>I am a freshman at BYU studying Computer Science. I am currently learning C++, HTML, Python, and a few other things as well.</p>
+
+<h2>Projects</h2>
+<hr>
+<ul>
+<li>Developed playlist application for sorting through music</li>
+<li>Currently running an HTML Website</li>
+
+</ul>
+
+<h2>Experience</h2>
+<hr>
+<ul>
+<li>Worked feeding animals</li>
+<li>Volunteered two years of service to church</li>
+</ul>
+<h2>Contact</h2>
+<hr>
+<ul>
+<li>Phone: (928)651-8129</li>
+<li>Email: calhargis1@gmail.com</li>
+<li><a href="https://github.com/calhargis">GitHub</a></li>
+</ul>
+
+</body>
+</html>
+
+</html>
